@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestNinja.Fundamentals
 {
-    public class FizzBuzz
+    public static class FizzBuzz
     {
         public static string GetOutput(int number)
         {
